@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+</html>
+<head>
+    <meta charset="utf-8">
+    <title>About Me</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body class="background">
+    <h1>About me page<h1>
+        <p class="p-welcome">Welcome to my about me. Feel free to screenshot this page.</p>
+        <p class="p-welcome">Very serious</p>
+    </body>
+    <html>
