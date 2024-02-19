@@ -26,3 +26,30 @@
 </body> -->
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flashing Text</title>
+<style>
+  /* Define the keyframes for the flashing effect */
+  @keyframes flash {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  /* Apply the animation to the text */
+  .flashing-text {
+    animation: flash 1s infinite; /* Change the duration to adjust the speed */
+  }
+</style>
+</head>
+<body>
+
+<!-- Place the text inside a span with a class -->
+<span class="flashing-text">大家好！欢迎来到我的网站！如果我们不团结合作，社会将会崩溃！钱钱钱</span>
+
+</body>
+</html>
