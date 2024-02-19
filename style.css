@@ -24,7 +24,6 @@ h1{
     background-image: url(https://cdn.discordapp.com/attachments/366762821763203083/1208963327502581770/52565304936_b7f9913fea_o.png?ex=65e531d6&is=65d2bcd6&hm=bb6cb67138b79d728df321877790f2cff0dc9dbe66086577df47dac51615f418&);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center
-    
-
+    background-position: center;
+    opacity: 0.50;
 }
